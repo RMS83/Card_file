@@ -184,3 +184,4 @@ while True:
     else:
         print("Нет такой команды!")
         print((help()))
+print("Hello World")
